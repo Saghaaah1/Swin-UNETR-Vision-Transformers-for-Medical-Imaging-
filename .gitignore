@@ -1,0 +1,12 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Données et résultats générés
+data
+reports/
+
+# Notebooks et macOS
+.ipynb_checkpoints/
+.DS_Store
